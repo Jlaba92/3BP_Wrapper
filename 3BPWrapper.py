@@ -385,7 +385,7 @@ def main(
         screen_width=width,
     )
 
-    bodies = body1
+    bodies = [body1]
 
     # MAIN LOOP
     running = True
